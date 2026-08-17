@@ -44,3 +44,11 @@ main {
     width: 80%;
     margin: 20px auto;
 }
+
+
+section {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 25px;
+    border-radius: 8px;
+}
