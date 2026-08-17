@@ -52,3 +52,7 @@ section {
     padding: 25px;
     border-radius: 8px;
 }
+section h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
